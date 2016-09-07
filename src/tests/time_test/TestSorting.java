@@ -1,4 +1,4 @@
-package time_test;
+package tests.time_test;
 
 import sort.SortUtils;
 import utils.time.ITimeAction;

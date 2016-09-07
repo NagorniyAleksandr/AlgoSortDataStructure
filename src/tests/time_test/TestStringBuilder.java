@@ -1,4 +1,4 @@
-package time_test;
+package tests.time_test;
 
 import utils.time.ITimeAction;
 import utils.time.TimeCounter;
